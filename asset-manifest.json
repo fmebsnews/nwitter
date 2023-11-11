@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "//nwitter/static/js/main.7027e7be.js",
-    "index.html": "//nwitter/index.html",
-    "main.7027e7be.js.map": "//nwitter/static/js/main.7027e7be.js.map"
+    "main.js": "/nwitter/static/js/main.9fb583f4.js",
+    "index.html": "/nwitter/index.html",
+    "main.9fb583f4.js.map": "/nwitter/static/js/main.9fb583f4.js.map"
   },
   "entrypoints": [
-    "static/js/main.7027e7be.js"
+    "static/js/main.9fb583f4.js"
   ]
 }
