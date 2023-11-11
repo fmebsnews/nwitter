@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fmebsnews/nwitter/static/js/main.500ba806.js",
-    "index.html": "/fmebsnews/nwitter/index.html",
-    "main.500ba806.js.map": "/fmebsnews/nwitter/static/js/main.500ba806.js.map"
+    "main.js": "//nwitter/static/js/main.7027e7be.js",
+    "index.html": "//nwitter/index.html",
+    "main.7027e7be.js.map": "//nwitter/static/js/main.7027e7be.js.map"
   },
   "entrypoints": [
-    "static/js/main.500ba806.js"
+    "static/js/main.7027e7be.js"
   ]
 }
